@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, I'm Adrian
 
-<!--
-**adrianescalona228/adrianescalona228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 I'm a backend developer from Venezuela, passionate about building useful tools and learning by doing real-world projects.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- 🐍 Python, Flask, SQLAlchemy, PostgreSQL
+- 🐘 Docker, Linux, Bash
+- 🌐 Some HTML/CSS
+- 🧠 Currently focused on backend architecture, database design, and systems programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects I've built
+- 🧾 Credit management system for a small business
+- 🤖 Binance trading bot with backtesting, real-time data collection & VPS deployment
+
+### 🚀 Goals
+- Keep learning through real challenges
+- Collaborate with other devs
+
+Feel free to connect, collaborate or just say hi 👇  
+📫 **adrianescalona228@gmail.com**  
