@@ -56,5 +56,5 @@ Un prototipo avanzado de asistente inteligente para la atención al cliente, fil
 
 ## ✉️ Contacto / Conectemos
 
-*   💼 [LinkedIn - Adrián Escalona](https://www.linkedin.com/in/adrianescalona228/)
+*   💼 [LinkedIn - Adrián Escalona](https://www.linkedin.com/in/adrián-escalona/)
 *   📧 Correo: [adrianescalona228@gmail.com](mailto:adrianescalona228@gmail.com)
