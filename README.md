@@ -45,12 +45,12 @@ Un prototipo avanzado de asistente inteligente para la atención al cliente, fil
 
 ---
 
-## 📈 Estadísticas de GitHub (My Stats)
+## ✨ Enfoques Técnicos & Buenas Prácticas (Core Strengths)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianescalona228&show_icons=true&theme=tokyonight" alt="Adrián's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianescalona228&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
-</p>
+*   **Arquitectura Limpia & Modular:** Estructuración de aplicaciones Flask con separación de responsabilidades clara (modelos, rutas y frontend desacoplados).
+*   **Gestión Eficiente de Base de Datos:** Optimización de SQLite mediante el modo WAL para mejorar el rendimiento de escritura y el manejo de índices para consultas rápidas.
+*   **Despliegues Reproducibles:** Containerización nativa con Docker y Docker Compose, facilitando la portabilidad y configuraciones automáticas de recuperación.
+*   **Integración de APIs y Automatizaciones:** Automatización de flujos de negocio mediante scripts personalizados, consumo de APIs de IA (Gemini/OpenRouter) y flujos con n8n.
 
 ---
 
